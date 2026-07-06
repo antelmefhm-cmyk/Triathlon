@@ -1,0 +1,18 @@
+{
+  "name": "Half Distance — Tri Training Tracker",
+  "short_name": "Half Distance",
+  "description": "Half Ironman training log and race plan tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10141A",
+  "theme_color": "#10141A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
